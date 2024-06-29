@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: blue;
+}
+
+html {
+  height: 100%;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.continerCalculator {
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  width: 400px;
+
+
+
+}
+
+.inputPresentNumber {
+  width: 90%;
+  font-size: 2rem;
+  text-align: center;
+  padding: 0;
+  margin: 0px;
+  background-color: rgb(89, 87, 87);
+  color: white;
+  margin: 1rem;
+}
+
+.shapePosition>input:hover {
+  color: white;
+  background-color: #7a0ecd;
+  cursor: pointer;
+}
+
+.shapePosition {
+
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 0px;
+  margin-bottom: 1rem;
+}
+
+.shapePosition>input {
+  width: 100%;
+  font-size: 1.3rem;
+  color: white;
+  background-color: #595d9c;
+  padding: 1rem;
+  border: 1px solid white;
+}
