@@ -2,9 +2,8 @@
 
 
 
+![screencapture-localhost-3000-2024-06-29-17_02_21](https://github.com/amitAsher22/calaulator_React/assets/69055006/ecbc9151-ad2c-499e-b495-89f52333052c)
 
-
-landing-page-blue-vercel-app-2024-02-19-14_03_42](https://github.com/amitAsher22/food_landingPage/assets/69055006/c191e469-a719-4762-9245-d9810c1e7019)
 
 
 let's see what react js actually is And I used : 
